@@ -1,10 +1,11 @@
-<h1 align="center">Ola,eu sou o Cesar Oliveira</h1>
+<h1 align="center">Olá,eu sou o Cesar Oliveira</h1>
 <h3 align="center">Sou um programador iniciante e aluno de Desenvolvimento de Sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesardevo&label=Profile%20views&color=0e75b6&style=flat" alt="cesardevo" /> </p>
 
-- 🔭 Estou estudando na Escola **ETEC Albert Einstein**
-- 🌱 Atualmente estou aprendendo **Javascript, C#, PHP, HTML e CSS**
+- 🔭 Cursando ADS na **FATEC São Paulo**
+- Estudei na Escola **ETEC Albert Einstein**
+- 🌱 Conhecimentos adquiridos: **Javascript, C#, PHP, HTML e CSS**
 
 <h3 align="left">Pode me contactar: cesar.eduar.oliveira@gmail.com</h3>
 <p align="left">
